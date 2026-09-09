@@ -1,0 +1,45 @@
+# skill-lab-project
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+navya
+1cx25cs130
+Personal Finance Copilot
+📌 Project Overview
+
+Personal Finance Copilot is an AI-powered web application that helps users track, analyze, and manage their personal finances. It provides spending insights, budgeting tools, financial goals, and an AI assistant for personalized financial analysis.
+
+🎯 Client Requirements
+Secure user registration and authentication.
+Add, edit, delete, and categorize income/expenses.
+Import transactions through CSV/Excel.
+Automatically categorize transactions.
+Display an interactive financial dashboard.
+Provide spending and income analytics.
+Create and monitor monthly budgets.
+Detect unusual spending patterns.
+Identify recurring expenses and subscriptions.
+Set and track financial goals.
+Provide AI-powered financial insights and natural-language queries.
+Forecast future spending and savings.
+Generate financial reports.
+Send budget and spending notifications.
+Protect user financial data with proper security and authorization.
+🚀 MVP Features
+ User Authentication
+ Transaction Management
+ CSV Import
+ Expense Categorization
+ Financial Dashboard
+ Budget Management
+ Spending Analytics
+ AI Financial Assistant
+ Spending Anomaly Detection
+ Financial Goals
+🛠️ Suggested Tech Stack
+
+Frontend: React / Next.js
+Backend: FastAPI
+Database: PostgreSQL
+AI: OpenAI API
+ML/Data: Python, Pandas, Scikit-learn
+Charts: Recharts
+Deployment: Vercel + Render/Railway
